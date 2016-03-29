@@ -1,0 +1,56 @@
+<!Doctype html>
+
+<html lang = "en">
+	<head>
+	<meta charset = "UTF-8">
+	<title>ProGit</title>
+	<link rel="stylesheet" href="/home/up4all/Desktop/gitbooth">
+	<link rel="stylesheet" type="text/css" href="Pro-git.css">
+	
+	<nav>
+  	    <a href="#">Home</a>
+	    <a href="#">About Us</a>
+	    <a href="#">Research</a>
+	    <a href="#">Gallery</a>
+	    <a href="#">Fun Facts</a>
+	    <a href="#">Contacts</a><a href="#">Home</a>
+	</nav>
+
+<!--	
+	<img src="/home/up4all/Desktop/gen/gen04.jpg" alt="cells">
+	<img src="/home/up4all/Desktop/gen/gen.jpg" alt="">
+	<img src="/home/up4all/Desktop/gen/gen.jpg" alt="">
+	<img src="/home/up4all/Desktop/gen/gen.jpg" alt="">
+
+-->
+
+
+	</head>
+
+	<body>
+
+	<h1>Evolution</h1>
+	<img src="/home/up4all/Desktop/gen/gen02.jpg" alt="homer">
+	
+	<h3><q>Evolution is change in the heritable traits of biological populations over successive generations.[1] Evolutionary processes give rise to diversity at every level of biological organisation, including the levels of species, individual organisms, and molecules.[2] ...</q> - Wikipedia</h3>
+
+	<br>
+	<br>
+	<br>
+
+	<p>Limb regeneration remains the stuff of science fiction for humans, but an accidental discovery provides a new window into what it would take for people to grow lost limbs with newtlike flair.
+The finding emerged from research into a gene that can turn back the clock on human cells. Young animals are able to recover from tissue damage much better than adults and can even regenerate tissues in the womb. In recent years researchers have eyed a gene called Lin28a, which is active early in life but silenced in most mature tissues. It can reprogram human somatic (nonreproductive) cells, rewinding them back to an embryoniclike state. The work led researchers to stumble upon another potential role for this gene, which enhances the healing power of mice when reactivated.
+In the course of his cancer research George Daley of Children’s Hospital Boston and Harvard Medical School was trying to clip holes in the ears of genetically engineered mice so he could tell them apart when, surprisingly, the wounds kept healing. Then he tried a backup identification technique—clipping off the tips of their toes—but the toes regrew. Daley and his colleagues also waxed the backs of the mice and were shocked to find that the fur rapidly grew back. These lab mice had been genetically engineered so that Lin28a remained switched on rather than shutting down after birth, apparently giving the mice supergrowth abilities. “We knew [Lin28a] could reprogram cells back to embryoniclike stem cells but we made this other discovery largely by accident,” says Daley, whose team’s findings were published in the November 7 issue of Cell. The team found they could replicate the healing abilities of the engineered mice by giving nongenetically altered ones drugs that help activate certain metabolic processes—the same pathway Lin28a stimulates—revving up and energizing cells as if they were much younger.
+The findings reveal that at least part of the reason that most animals cannot regenerate lost limbs lies in their metabolism. When Lin28a turns on and expresses a protein in the body, it boosts the metabolism, apparently fooling the body into thinking that it is younger and spurring a complex cascade of chemical reactions that generate energy. The research shows how the same mechanisms that ordinarily provide cellular energy can also drive more exotic processes such as wound healing.
+The power of Lin28a appeared to only extend so far. When mice were no longer babies—at five weeks—the scientists were not able to regenerate their limbs, even if the gene was stimulated. And mice with Lin28a activation were never able to repair damage to the heart, suggesting that the protein is not equally effective everywhere in the body. One factor that may limit the regeneration is the size of the organs involved, says Yui Suzuki, a developmental biologist at Wellesley College who was not involved with the work. Perhaps the mice can regenerate small organs, such as immature toes, but not larger ones, such as full-size digits or the heart, but the jury is still out.
+Scientists have long pursued the goal of human limb regeneration, but uncovering how to kick-start the necessary biological processes or identify the needed pathway for humans to regenerate body parts the way salamanders or starfish do has remained elusive.
+Humans do have some regenerative capacities—for example, regrowing fingertips if a sizable portion of the fingernail remains. That process depends on the presence of stem cells tucked in the epithelium underneath the nail, which is a luxury not available throughout the body. The new research, however, could potentially open a way to expand our regenerative playbook by manipulating the activity of genes such as Lin28a or mimicking their effects.
+The regrowth process in mice with switched-on Lin28a is beautifully intricate. One of the gene’s molecular targets, for example, is a microRNA (a small noncoding RNA molecule) called let7, which in turn regulates hundreds of other genes, so the effects of Lin28a can set off a complex array of regulatory interactions. The team initially assumed that much of the enhanced wound-healing ability stemmed from Lin28a shutting off that target, let7. But employing a genetic trick, they used antibiotics to block let7 and discovered that simply obstructing the microRNA was not enough—fingering Lin28a as the healing agent. Daley’s next steps will focus on reactivating the Lin28a pathway to stimulate wound healing in internal organs.
+Lin28a has already been linked to the timing of puberty in mice and a predisposition to diabetes. It is also a prime regulator of cellular metabolism and division in organisms as diverse as worms and humans. “This is a gene that has now stimulated tremendous interest, and that is a testimony to its central role in many areas of biology,” Daley says. But spurring human regenerative abilities with the gene remains a long way off—no drugs are known to effectively turn Lin28a on in humans. “This is exciting and illuminating research on the principle of regeneration,” Daley says. “I hope it will stimulate other research that would have clinical implications.”
+</p>
+
+
+
+
+	</body>
+</html>
